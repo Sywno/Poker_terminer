@@ -1,3 +1,0 @@
-C:/Users/simon/Downloads/PokervsJL_fichiers_seulement/cmake-build-debug/CMakeFiles/PokervsJL_fichiers_seulement.dir
-C:/Users/simon/Downloads/PokervsJL_fichiers_seulement/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/simon/Downloads/PokervsJL_fichiers_seulement/cmake-build-debug/CMakeFiles/rebuild_cache.dir
